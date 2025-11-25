@@ -1,0 +1,34 @@
+{
+  "input_text": "Study HTML for 1 hour (high priority), Gym 30 mins morning, Apply to jobs (urgent), Buy groceries optional",
+  "scheduled": [
+    {
+      "task": "Study HTML",
+      "start": "08:00",
+      "end": "09:00",
+      "priority": "High",
+      "duration_min": 60
+    },
+    {
+      "task": "Gym",
+      "start": "09:15",
+      "end": "09:45",
+      "priority": "Medium",
+      "duration_min": 30
+    },
+    {
+      "task": "Apply to jobs",
+      "start": "10:00",
+      "end": "11:00",
+      "priority": "High",
+      "duration_min": 60
+    }
+  ],
+  "unscheduled": [
+    {
+      "task": "Buy groceries",
+      "priority": "Low",
+      "duration_min": 30,
+      "preferred": null
+    }
+  ]
+}
