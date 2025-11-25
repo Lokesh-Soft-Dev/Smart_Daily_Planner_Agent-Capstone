@@ -1,0 +1,3 @@
+Track: Concierge Agents
+Submission: Kaggle Notebook + GitHub Repo
+Deadline: December 1, 2025 — 11:59 AM PT
