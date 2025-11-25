@@ -1,0 +1,34 @@
+{
+  "input_text": "Project work 2 hrs, Team meeting 1 hr, Lunch 30 mins, Email replies 20 mins",
+  "scheduled": [
+    {
+      "task": "Project work",
+      "start": "08:00",
+      "end": "10:00",
+      "priority": "High",
+      "duration_min": 120
+    },
+    {
+      "task": "Team meeting",
+      "start": "10:15",
+      "end": "11:15",
+      "priority": "High",
+      "duration_min": 60
+    },
+    {
+      "task": "Lunch",
+      "start": "11:30",
+      "end": "12:00",
+      "priority": "Medium",
+      "duration_min": 30
+    },
+    {
+      "task": "Email replies",
+      "start": "12:15",
+      "end": "12:35",
+      "priority": "Low",
+      "duration_min": 20
+    }
+  ],
+  "unscheduled": []
+}
