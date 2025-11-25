@@ -1,0 +1,32 @@
+{
+  "input_text": "Revise JavaScript 1 hour, Water plants 15 mins, Pay electricity bill, Watch tutorial evening",
+  "scheduled": [
+    {
+      "task": "Revise JavaScript",
+      "start": "08:00",
+      "end": "09:00",
+      "priority": "High",
+      "duration_min": 60
+    },
+    {
+      "task": "Water plants",
+      "start": "09:15",
+      "end": "09:30",
+      "priority": "Low",
+      "duration_min": 15
+    }
+  ],
+  "unscheduled": [
+    {
+      "task": "Pay electricity bill",
+      "priority": "Low",
+      "duration_min": 30
+    },
+    {
+      "task": "Watch tutorial",
+      "priority": "Medium",
+      "duration_min": 60,
+      "preferred": "evening"
+    }
+  ]
+}
