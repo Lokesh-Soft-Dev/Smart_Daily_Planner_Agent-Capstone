@@ -14,4 +14,12 @@ A simple agent that organizes and schedules a user's daily tasks, prioritizes th
 - `submission.txt` — submission checklist & deadline
 
 ## Status
-Initial repo created — Step 1 complete.
+
+Initial implementation complete. To run the demo:
+
+1. Open the Kaggle Notebook: `Smart Daily Planner Agent - Capstone`
+2. Run the notebook cells from top to bottom.
+3. Use the demo inputs in the notebook or open the saved JSON demo files in `assets/` (demo_study.json, demo_workday.json, demo_personal.json).
+4. For submission, include the Kaggle notebook link and this GitHub repo.
+
+Note: This demo uses simple local helper functions to emulate ADK tools and memory. Replace them with ADK APIs for the final polished submission if available.
