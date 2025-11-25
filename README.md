@@ -1,4 +1,4 @@
-# Smart Daily Planner Agent — Capstone
+## Smart Daily Planner Agent — Capstone
 
 **Track:** Concierge Agents  
 **Author(s):** [Your name / team members]  
