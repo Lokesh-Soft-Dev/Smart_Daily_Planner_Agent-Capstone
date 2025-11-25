@@ -23,3 +23,19 @@ Initial implementation complete. To run the demo:
 4. For submission, include the Kaggle notebook link and this GitHub repo.
 
 Note: This demo uses simple local helper functions to emulate ADK tools and memory. Replace them with ADK APIs for the final polished submission if available.
+
+## Demo Screencast Instructions (to be recorded before submission)
+
+To create the final GIF:
+
+1. Start screen recorder (Loom / OBS / Screencastify / built-in Windows recorder).  
+2. Open the Kaggle notebook.  
+3. Paste a short input into the demo cell.  
+4. Run `run_agent()`.  
+5. Show the printed schedule.  
+6. Scroll to `assets/` folder to show saved `.json` demo files.  
+7. Export the video as MP4 and convert to GIF (EZGIF.com).  
+8. Save the GIF as `assets/agent_demo.gif`.
+
+This GIF will be included in the final Kaggle submission + GitHub repo.
+
