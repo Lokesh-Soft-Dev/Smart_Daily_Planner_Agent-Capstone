@@ -1,3 +1,9 @@
 Track: Concierge Agents
-Submission: Kaggle Notebook + GitHub Repo
+Project: Smart Daily Planner Agent
+Submission Includes:
+- Kaggle Notebook
+- GitHub Repository
+- Demo GIF (added before submission)
+- Demo JSON outputs (added before submission)
 Deadline: December 1, 2025 — 11:59 AM PT
+Status: Ready for Submission
